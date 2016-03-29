@@ -13,4 +13,4 @@
 java -jar build/libs/hello-karyon-rxnetty-all-0.1.0.jar
 ```
 
-### bump for version again!  /sigh and again
+### bump version on new jenkins
