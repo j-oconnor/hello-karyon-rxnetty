@@ -1,6 +1,5 @@
 # hello-karyon-rxnetty
 
-
 ## Build Tasks
 
 ### Running the app
@@ -13,3 +12,5 @@
 ./gradlew clean fatJar
 java -jar build/libs/hello-karyon-rxnetty-all-0.1.0.jar
 ```
+
+### bump for version
